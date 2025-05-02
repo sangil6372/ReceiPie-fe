@@ -54,7 +54,7 @@ npm run build
 1. 레포를 clone 한 뒤 아래 순서로 초기화:
 
 ```bash
-git clone https://github.com/your-org/receipie.git
+git clone https://github.com/ParkSSU/ReceiPie-fe.git
 cd receipie
 npm install
 ```
