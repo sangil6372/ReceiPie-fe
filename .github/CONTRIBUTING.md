@@ -7,10 +7,10 @@
 # 주의 사항
 
 - 주제는 영어일때 **소문자**로 시작!
-- scope 는 **선택사항** : 기능을 작성!
-  예시 :
-  feat(auth): 로그인 기능 추가
-  fix(user-profile): 이메일 안 보임
+- scope 는 **선택사항** : 기능을 작성!  
+  예시 :  
+  feat(auth): 로그인 기능 추가  
+  fix(user-profile): 이메일 안 보임  
 
 ## 커밋 타입
 
@@ -29,8 +29,8 @@
 
 ## commit 예시
 
-feat: user-login page 작성
-fix(store): 데이터 반응형 미작동 수정
-docs: update README.md
-style: 작은 따옴표에서 큰 따옴표로 수정
-refactor(filename): views -> pages 로 이름 변경
+feat: user-login page 작성  
+fix(store): 데이터 반응형 미작동 수정  
+docs: update README.md  
+style: 작은 따옴표에서 큰 따옴표로 수정  
+refactor(filename): views -> pages 로 이름 변경  
